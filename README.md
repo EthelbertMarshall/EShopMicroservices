@@ -6,5 +6,3 @@ EShopMicroservices Udemy 2026 .NET 8 CQRS Course
 // Logical CQRS Pattern is applied in the project structure
 // Created as a Feature Folder Structure
 // "Products" is a feature folder in the project structure and this is the Feature based development in Vertical Slice Architecture
-
-2. 
