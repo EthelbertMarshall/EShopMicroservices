@@ -1,3 +1,17 @@
 https://github.com/EthelbertMarshall/EShopMicroservices
 
 https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet 
+
+https://github.com/aspnetrun/run-aspnetcore-microservices/blob/master/src/docker-compose.override.yml
+
+Powershell Postgres Commands
+----------------------------
+-- docker ps "then" take Id ---- docker exec -it a164b27fdbe9 bash
+
+
+/# psql -U postgres
+
+\l -- for listing DB , \q -- for exit,  \d - to list tables  then write Select statement for listing records
+
+\c CatalogDb == for db connection
+

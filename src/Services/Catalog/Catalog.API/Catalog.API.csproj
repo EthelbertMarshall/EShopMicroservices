@@ -7,10 +7,12 @@
     <UserSecretsId>219c8049-a651-4cbf-8354-8371fbb6c9f1</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\..\..</DockerfileContext>
+    <DockerComposeProjectPath>..\..\..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
 	 <PackageReference Include="Carter" Version="8.2.1" />
+	 <PackageReference Include="Marten" Version="8.21.0" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1" />
   </ItemGroup>
 
